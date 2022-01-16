@@ -10,7 +10,7 @@ Contents
 ## File Contents
 	
     AoCday2.cpp  (program file containing code)
-   input2.txt (input file provided by Advent of Code)
+    input2.txt (input file provided by Advent of Code)
 
 ## Introduction
 
