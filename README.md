@@ -14,6 +14,7 @@ Contents
 
 ## Introduction
 --- Day 2: Dive! ---
+
 Now, you need to figure out how to pilot this thing.
 
 It seems like the submarine can take a series of commands like forward 1, down 2, or up 3:
